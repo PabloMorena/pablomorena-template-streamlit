@@ -15,3 +15,6 @@ sympy>=1.10.1
 xgboost
 streamlit
 joblib
+plotly
+pickle
+warnings
